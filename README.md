@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Studying computer science at UCLA'25
+📚 Studying computer science at UCLA'25
 <!--
 **henrynvn09/henrynvn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
