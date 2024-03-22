@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=henrynvn09&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=165 />
