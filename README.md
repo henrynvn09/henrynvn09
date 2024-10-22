@@ -17,3 +17,15 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=henrynvn09&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=165 />
+
+
+| Repo                | Description                                                             | Tech Stack              |
+|---------------------|---------------------------------------------------------------------------------|-------------------------|
+| [Chop](https://github.com/henrynvn09/chop-recipes-web)                | Recipe-sharing social web app                | JavaScript, MongoDB, React, TailwindCSS, Docker, Google Firebase |
+| [PickIt](https://github.com/henrynvn09/pickit)              | Social web app for trash-collecting competition, featuring a live photo-based AI trash grading system | Python, Reflex, Flask, Docker, Google Gemini, MongoDB |
+| [CS33](https://github.com/henrynvn09/cs33)                | low-level programming, security vulnerabilities, and parallel programming. | C, C++, Assembly, OpenMP |
+| [CS111](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)               | operating systems, process management, file systems, and CPU scheduling locks | C               |
+| [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors, including pipelined and out-of-order processors. | C++                     |
+| [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA, with VGA display, obstacle movement, collision detection, and high score tracking. | Verilog, FPGA, VGA, Digital Design     |
+
+This table provides a concise summary for each repo, highlighting the key areas and tech stacks involved. Let me know if you'd like further adjustments!
