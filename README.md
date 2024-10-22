@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 | [PickIt](https://github.com/henrynvn09/pickit)              | Social web app for trash-collecting competition, featuring a live photo-based AI trash grading system | Python, Reflex, Flask, Docker, Google Gemini, MongoDB |
 | [CS33](https://github.com/henrynvn09/cs33)                | low-level programming, security vulnerabilities, and parallel programming. | C, C++, Assembly, OpenMP |
 | [CS111](https://github.com/henrynvn09/cs111-operating-system)               | operating systems, process management, file systems, and CPU scheduling locks | C               |
-| [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors, including pipelined and out-of-order processors. | C++                     |
-| [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA, with VGA display, obstacle movement, collision detection, and high score tracking. | Verilog, FPGA, VGA, Digital Design     |
+| [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors simulation, including pipelined and out-of-order processors. | C++                     |
+| [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA on VGA display | Verilog, FPGA, VGA, Digital Design     |
