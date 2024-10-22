@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 | [CS111](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)               | operating systems, process management, file systems, and CPU scheduling locks | C               |
 | [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors, including pipelined and out-of-order processors. | C++                     |
 | [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA, with VGA display, obstacle movement, collision detection, and high score tracking. | Verilog, FPGA, VGA, Digital Design     |
-
-This table provides a concise summary for each repo, highlighting the key areas and tech stacks involved. Let me know if you'd like further adjustments!
