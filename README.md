@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 | Repo                | Description                                                             | Tech Stack              |
 |---------------------|---------------------------------------------------------------------------------|-------------------------|
+| [Dynamic Typed Language Interpreter](https://github.com/henrynvn09/dynamic-typed-language-interpreter)        | An interpreter for a dynamic typed language, leveraging an Abstract Syntax Tree with support for control structures, expressions, functions, and lexical scoping rules. | Python, AST, Programming Language, Compiler Design |
 | [Chop](https://github.com/henrynvn09/chop-recipes-web)                | Recipe-sharing social web app                | JavaScript, MongoDB, React, TailwindCSS, Docker, Google Firebase |
 | [PickIt](https://github.com/henrynvn09/pickit)              | Social web app for trash-collecting competition, featuring a live photo-based AI trash grading system | Python, Reflex, Flask, Docker, Google Gemini, MongoDB |
 | [CS33](https://github.com/henrynvn09/cs33)                | low-level programming, security vulnerabilities, and parallel programming. | C, C++, Assembly, OpenMP |
