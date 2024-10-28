@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=henrynvn09&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=165 />
 
 
-| Repo                | Description                                                             | Tech Stack              |
+| Repo                | Description                                                             | Note              |
 |---------------------|---------------------------------------------------------------------------------|-------------------------|
 | [Dynamic Typed Language Interpreter](https://github.com/henrynvn09/dynamic-typed-language-interpreter)        | An interpreter for a dynamic typed language, leveraging an Abstract Syntax Tree with support for control structures, expressions, functions, and lexical scoping rules. | Python, AST, Programming Language, Compiler Design |
 | [Chop](https://github.com/henrynvn09/chop-recipes-web)                | Recipe-sharing social web app                | JavaScript, MongoDB, React, TailwindCSS, Docker, Google Firebase |
