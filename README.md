@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 | [CS111](https://github.com/henrynvn09/cs111-operating-system)               | operating systems, process management, file systems, and CPU scheduling locks | C               |
 | [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors simulation, including pipelined and out-of-order processors. | C++                     |
 | [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA on VGA display | Verilog, FPGA, VGA, Digital Design     |
+| [Windows Eyes Strain Enforcer](https://github.com/henrynvn09/Reduce_Eye_Strain)    | A Winforms app that enforce the 20-20-20 rule by turning off display and show annoying notifications if user doesn't abide the rule  | C#, WinForms     |
