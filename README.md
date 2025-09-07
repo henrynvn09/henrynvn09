@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 | [151b-design-CPU-RISC-V](https://github.com/henrynvn09/151b-design-CPU-RISC-V) | Implementation of RISC-V processors simulation, including pipelined and out-of-order processors. | C++                     |
 | [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA on VGA display | Verilog, FPGA, VGA, Digital Design     |
 | [Windows Eyes Strain Enforcer](https://github.com/henrynvn09/Reduce_Eye_Strain)    | A Winforms app that enforce the 20-20-20 rule by turning off display and show annoying notifications if user doesn't abide the rule  | C#, WinForms     |
-| [Digital photo frame](https://github.com/henrynvn09/magicmirror-config)    | My magic mirror config sync with google calendar, microsoft todo, and immich |
+| [Digital photo frame](https://github.com/henrynvn09/magicmirror-config)    | My magic mirror config sync with google calendar, microsoft todo, and immich | shell script |
