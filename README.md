@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 | [FPGA-Frogger](https://github.com/henrynvn09/verilog-frogger-game-FPGAs)        | Classic Frogger game implemented using FPGA on VGA display | Verilog, FPGA, VGA, Digital Design     |
 | [Windows Eyes Strain Enforcer](https://github.com/henrynvn09/Reduce_Eye_Strain)    | A Winforms app that enforce the 20-20-20 rule by turning off display and show annoying notifications if user doesn't abide the rule  | C#, WinForms     |
 | [UDP simulate](https://github.com/henrynvn09/implement-network-layers)        | Implementing a reliability layer over UDP using a three-way handshake, a sliding window protocol, and retransmission logic to ensure reliable, in-order packet delivery between a client and server via BSD sockets. | Computer networks, C/C++ |
+
+
+| Repo                | Description                                                             |
+| [Linux dotfiles](https://github.com/henrynvn09/my-dotfiles)        | My arch-linux dotfiles and installation instructions |
