@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 |---------------------|---------------------------------------------------------------------------------|-------------------------|
 | [CPU/GPU Optimization for Machine Learning](https://github.com/henrynvn09/Parallel-Computing-CPU-GPU)    | Optimized CPU, NVIDIA GPU, achieving 300x speedup on GPU Convolutional Neural Network  | C++, CUDA, OpenMP, MPI, AWS EC2, NVDIA T4 |
 | [Scalable Distributed Key-Value Database with Paxos](https://github.com/henrynvn09/KV-sharded-database-paxos)    | sharded key-value store, partitioning data across fault-tolerant replica groups and dynamically balancing load via reconfiguration | Golang |
-| [Digital photo frame](https://github.com/henrynvn09/magicmirror-config)    | My magic mirror config sync with google calendar, microsoft todo, and immich | Python, shell script |
+| [Digital photo frame](https://github.com/henrynvn09/magicmirror-config)    | A digital photo frame on rasperry pi, built using magic mirror, google calendar, microsoft todo, and immich API | Python, shell script, immich |
 | [PickIt](https://github.com/henrynvn09/pickit)              | Social web app for trash-collecting competition, featuring a live photo-based AI trash grading system. First place Reflex company challenge | Python, Reflex, Flask, Docker, Google Gemini, MongoDB |
 | [NoteLab](https://github.com/henrynvn09/NoteLab)              | a smart class note-generation platform utilizing real-time voice recording, transcript, google search | Javascript, Angular, Python, FastAPI, Gemini AI, MongoDB, Docker |
 | [Chop](https://github.com/henrynvn09/chop-recipes-web)                | Recipe-sharing social web app                | JavaScript, MongoDB, React, TailwindCSS, Docker, Google Firebase |
