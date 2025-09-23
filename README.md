@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 
 | Repo                | Description                                                             |
-| [Linux dotfiles](https://github.com/henrynvn09/my-dotfiles)        | My arch-linux dotfiles and installation instructions |
+|---------------------|---------------------------------------------------------------------------------|
+| [Linux dotfiles](https://github.com/henrynvn09/my-dotfiles)      | My arch-linux dotfiles and installation instructions |
