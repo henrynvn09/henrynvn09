@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 | Repo                | Description                                                             |
 |---------------------|---------------------------------------------------------------------------------|
 | [Linux dotfiles](https://github.com/henrynvn09/my-dotfiles)      | My arch-linux dotfiles and installation instructions |
+| [MacOS dotfiles](https://github.com/henrynvn09/dotfiles-macOS)      | My MacOS dotfiles |
 | [FA Quiz Android](https://play.google.com/store/apps/details?id=com.Ying.fa_quiz&hl=en_US) vs [FA Quiz iOS](https://apps.apple.com/us/app/fa-quiz-tr%E1%BA%AFc-nghi%E1%BB%87m-y-khoa/id1508005634)     | Anatomy quiz app for med students |
